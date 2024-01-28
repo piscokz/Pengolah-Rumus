@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Belajar-Bangun-Datar-master/aplikasibdm/bin/dexedLibs/android-support-v4-c569315771691df16f8ff1aa19f0a9ce.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Belajar-Bangun-Datar-master/aplikasibdm/bin/dexedLibs/annotations-c3592aabf54bef321de290d2f10ef668.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
